@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Federica Benassi"
+title: " "
 author_profile: true
 redirect_from:
   - /about/
@@ -9,19 +9,21 @@ redirect_from:
 
 I am a PhD student in Oceanography at the University of Bologna and the Euro-Mediterranean Center on Climate Change (CMCC). I use machine learning to understand ocean processes at different time/space scales.
 
-## Research
+## Experience
 
-My latest work:
+- **Aug-Dec 2025**: Visiting student at [Coastal Biogeochemistry Dynamics Lab](https://samanthasiedlecki.wixsite.com/coastalbiogeodynlab) @ University of Connecticut (Groton, 🇺🇸)
+- **Apr-Jun 2023**: Visiting student at [Phytooptics Lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html) @ Alfred-Wegener Institute (Bremerhaven, 🇩🇪)
 
-- Understanding lateral carbon transport in Eastern Boundary Upwelling regions and the role of mesoscale filaments
-- A graph neural network-based emulator of wind wave dynamics in the Mediterranean Sea
-- Assessing uncertainty and generalization of air-sea CO2 in-situ fluxes though explainable neural networks
+## Education
+
+- **2021-2023**: Master degree in Physics of the Earth System (University of Bologna, [Thesis available here](https://www.sincem.unibo.it/images/tesi_Benassi.pdf)) 
+- **2017-2020**: Bachelor degree in Physics (University of Modena and Reggio Emilia)
 
 ## Publications
 
 - Benassi, F., Mentaschi, L., Causio, S., Holmberg, D., Federico, I., Pinardi, N. (2026). Decadal wave reconstruction in the Mediterranean Sea with graph neural networks. Submitted to *Artificial Intelligence for the Earth Systems*. Preprint available soon.
 
-- Benassi, F., Siedlecki, S. A., Pinardi, N., Mentaschi, L., Cessi, P., Bianconcini, S., & Federico, I. (2026). A satellite-based estimate of the contribution of  filamentary structures to lateral carbon transport in the Pacific and Atlantic  Upwelling systems. In review for *Geophysical Research Letters*. Preprint available at https://doi.org/10.22541/essoar.174907155.52507576/v2
+- Benassi, F., Siedlecki, S. A., Pinardi, N., Mentaschi, L., Cessi, P., Bianconcini, S., & Federico, I. (2026). A satellite-based estimate of the contribution of  filamentary structures to lateral carbon transport in the Pacific and Atlantic  Upwelling systems. In review for *Geophysical Research Letters*. [Preprint available](https://doi.org/10.22541/essoar.174907155.52507576/v2).
 
 ## Talks
 
@@ -33,7 +35,7 @@ My latest work:
 ## Teaching
 
 | --- | --- | --- | 
-| 2025 | Lecturer on Unsupervised Learning for COMPASS-Philippines spring school | 🇵🇭|
+| 2025 | Lecturer for COMPASS-Philippines spring school | 🇵🇭|
 | 2023 | Python crash course for Science of Climate students | 🇮🇹 |
 
 ## CV
