@@ -7,37 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-## About
-
-I am a PhD student in Oceanography at the University of Bologna and the Euro-Mediterranean Center on Climate Change (CMCC). My research explores the interaction between ocean dynamics, climate variability, and data-driven methods for studying marine and coastal systems.
+I am a PhD student in Oceanography at the University of Bologna and the Euro-Mediterranean Center on Climate Change (CMCC). I use machine learning to understand ocean processes at different time/space scales.
 
 ## Research
 
-My work focuses on understanding how ocean processes evolve across space and time, with particular attention to the use of observational data, numerical models, and machine learning approaches.
+My latest work:
 
-- Physical oceanography and coastal processes
-- Climate variability and marine systems
-- Data-driven analysis of environmental observations
+- Understanding lateral carbon transport in Eastern Boundary Upwelling regions and the role of mesoscale filaments
+- A graph neural network-based emulator of wind wave dynamics in the Mediterranean Sea
+- Assessing uncertainty and generalization of air-sea CO2 in-situ fluxes though explainable neural networks
 
 ## Publications
 
-A selected list of publications can be added here. You can also link to your ORCID, Google Scholar, or ResearchGate profile for a fuller record.
+- Benassi, F., Mentaschi, L., Causio, S., Holmberg, D., Federico, I., Pinardi, N. (2026). Decadal wave reconstruction in the Mediterranean Sea with graph neural networks. Submitted to *Artificial Intelligence for the Earth Systems*. Preprint available soon.
+
+- Benassi, F., Siedlecki, S. A., Pinardi, N., Mentaschi, L., Cessi, P., Bianconcini, S., & Federico, I. (2026). A satellite-based estimate of the contribution of  filamentary structures to lateral carbon transport in the Pacific and Atlantic  Upwelling systems. In review for *Geophysical Research Letters*. Preprint available at https://doi.org/10.22541/essoar.174907155.52507576/v2
 
 ## Talks
 
-Invited seminars, conference presentations, and public lectures can be listed here in reverse chronological order.
+| --- | --- | --- | --- |
+| 2026 | Predicting wave parameters on unstructured grids using a Graph Neural Network | OSM 2026 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
+| 2025 | A satellite-based estimate of the contribution of filamentary structures to lateral carbon transport in the Pacific and Atlantic Upwelling systems | AGU 2025 |🇺🇸 |
+
 
 ## Teaching
 
-Teaching activities, course support, and supervision experience can be summarized here.
+| --- | --- | --- | 
+| 2025 | Lecturer on Unsupervised Learning for COMPASS-Philippines spring school | 🇵🇭|
+| 2023 | Python crash course for Science of Climate students | 🇮🇹 |
 
 ## CV
 
-A concise academic CV or a link to a PDF version of your full CV can be placed here.
-
-## Contact
-
-Email: federica.benassi13@unibo.it
-
-Institution: University of Bologna & CMCC
-
+In progress
