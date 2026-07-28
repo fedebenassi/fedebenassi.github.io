@@ -11,8 +11,11 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /#research
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Education"
+    url: /#education
 
   - title: "Publications"
     url: /#publications
@@ -25,6 +28,3 @@ main:
 
   - title: "CV"
     url: /#cv
-
-  - title: "Contact"
-    url: /#contact
