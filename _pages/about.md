@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Oceanography at the University of Bologna and the Euro-Mediterranean Center on Climate Change (CMCC). I use machine learning to understand ocean processes at different time/space scales.
+I am a PhD student in *Future Earth, Climate Change and Societal Challenges* at the University of Bologna and the Euro-Mediterranean Center on Climate Change (CMCC). I use machine learning to understand ocean processes at different time/space scales.
 
 ## Experience
 
