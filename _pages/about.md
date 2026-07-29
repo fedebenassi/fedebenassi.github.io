@@ -40,4 +40,4 @@ I am a PhD student in *Future Earth, Climate Change and Societal Challenges* at 
 
 ## CV
 
-[Download my CV]({{ site.baseurl }}/files/cv.pdf)
+[Download my CV](files/CV_Benassi.pdf)
