@@ -40,4 +40,4 @@ I am a PhD student in *Future Earth, Climate Change and Societal Challenges* at 
 
 ## CV
 
-In progress
+[See CV here](https://fedebenassi.github.io/files/CV_Benassi.pdf)
