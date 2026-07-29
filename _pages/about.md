@@ -38,6 +38,4 @@ I am a PhD student in *Future Earth, Climate Change and Societal Challenges* at 
 | 2025 | Lecturer for COMPASS-Philippines spring school | 🇵🇭|
 | 2023 | Python crash course for Science of Climate students | 🇮🇹 |
 
-## CV
 
-[Download my CV](files/CV_Benassi.pdf)
