@@ -21,7 +21,7 @@ I am a PhD student in *Future Earth, Climate Change and Societal Challenges* at 
 
 ## Publications
 
-- Benassi, F., Mentaschi, L., Causio, S., Holmberg, D., Federico, I., Pinardi, N. (2026). Decadal wave reconstruction in the Mediterranean Sea with graph neural networks. Submitted to *Artificial Intelligence for the Earth Systems*. Preprint available soon.
+- Benassi, F., Mentaschi, L., Causio, S., Holmberg, D., Federico, I., Pinardi, N. (2026). Decadal wave reconstruction in the Mediterranean Sea with graph neural networks. Submitted to *Artificial Intelligence for the Earth Systems*. [Preprint available](https://doi.org/10.48550/arXiv.2608.16449).
 
 - Benassi, F., Siedlecki, S. A., Pinardi, N., Mentaschi, L., Cessi, P., Bianconcini, S., & Federico, I. (2026). A satellite-based estimate of the contribution of  filamentary structures to lateral carbon transport in the Pacific and Atlantic  Upwelling systems. In review for *Geophysical Research Letters*. [Preprint available](https://doi.org/10.22541/essoar.174907155.52507576/v2).
 
