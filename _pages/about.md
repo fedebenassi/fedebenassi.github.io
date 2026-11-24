@@ -9,6 +9,8 @@ redirect_from:
 
 I am a PhD student in *Future Earth, Climate Change and Societal Challenges* at the University of Bologna and the Euro-Mediterranean Center on Climate Change (CMCC). I use machine learning to understand ocean processes at different time/space scales.
 
+[Download my CV (PDF)]({{ '/files/FedericaBenassi_CV_Nov2026.pdf' | relative_url }})
+
 ## Experience
 
 - **Aug-Dec 2025**: Visiting student at [Coastal Biogeochemistry Dynamics Lab](https://samanthasiedlecki.wixsite.com/coastalbiogeodynlab) @ University of Connecticut (Groton, 🇺🇸)
@@ -37,5 +39,4 @@ I am a PhD student in *Future Earth, Climate Change and Societal Challenges* at 
 | --- | --- | --- | 
 | 2025 | Lecturer for COMPASS-Philippines spring school | 🇵🇭|
 | 2023 | Python crash course for Science of Climate students | 🇮🇹 |
-
 
